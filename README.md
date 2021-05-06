@@ -11,7 +11,7 @@
 
 ---------------------------------------------------
 <div id="About Project"><h3>About Project</h3></div>
-SQL Employees Project is Project
+SQL Employees Project is Project for creating and execution simple database
 
 ---------------------------------------------------
 <div id="About Contributor"><h3>About Contributor</h3></div>
