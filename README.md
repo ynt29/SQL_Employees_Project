@@ -44,5 +44,6 @@ In this database has seven tables.
 ---------------------------------------------------
 <div id="Query results"><h3>Query results</h3> </div>
 You can see this database query results at images folder on this Github project.
+https://github.com/ynt29/SQL_Employees_Project/tree/main/images
 
 ---------------------------------------------------
